@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "download_url": "https://github.com/ТВОЙ_НИК/ocr-looter-updates/releases/download/v1.0.0/OCR_Looter.exe",
-    "changelog": "Первая версия программы"
+    "version": "1.0.1",
+    "download_url": "https://github.com/Golyr44/ocr-looter-updates/releases/download/v1.0.1/OCR_Looter.exe",
+    "changelog": "Исправлена ошибка 'lost sys.stdin'\nТеперь программа работает без консоли\nУлучшена стабильность"
 }
