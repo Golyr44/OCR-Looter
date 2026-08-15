@@ -1,5 +1,5 @@
 {
     "version": "1.0.4",
-    "download_url": "https://github.com/Golyr44/OCR-Looter/releases/download/v1.0.4/OCR_Looter.exe",
+    "download_url": "https://github.com/Golyr44/OCR-Looter/releases/download/1.0.4/OCR_Looter.exe",
     "changelog": "🪟 Добавлен МИНИ-РЕЖИМ (F5) – маленькое окно поверх всех окон\n📌 Режим 'Поверх всех окон' (F6)\n🐛 Исправлен баг с сохранением языка перевода\n🔍 Улучшено распознавание мелкого текста (авто-увеличение)"
 }
